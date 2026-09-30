@@ -40,6 +40,6 @@ pref_os = "Arch Linux"
 ---
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=F-Rickz&show_icons=true&hide_border=true&bg_color=00000000&title_color=8b5cf6&text_color=a9b1d6&icon_color=8b5cf6" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=F-Rickz&show_icons=true&hide_border=true&hide_rank=true&bg_color=00000000&title_color=8b5cf6&text_color=a9b1d6&icon_color=8b5cf6" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-Rickz&layout=compact&hide_border=true&bg_color=00000000&title_color=8b5cf6&text_color=a9b1d6" height="150" alt="Top Languages" />
 </div>
