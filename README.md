@@ -3,7 +3,7 @@
 </div>
 
 > *"No matter where you are, everyone is always connected."*
-> *"My name is Ricardo Guerra, i'm web developer fullstack."*
+> *"My name is Ricardo Guerra, i'm a web developer fullstack."*
 
 ```ini
 [self]
